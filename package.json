@@ -1,0 +1,21 @@
+{
+  "name": "webpack-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henrique Limas <henrique.ramos.limas@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "raw-loader": "^0.5.1",
+    "webpack": "^1.12.2",
+    "css-loader": "^0.18.0",
+    "raw-loader": "^0.5.1",
+    "style-loader": "^0.12.4"
+  },
+  "dependencies": {
+    "angular": "^1.4.5"
+  }
+}
